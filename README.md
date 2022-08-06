@@ -10,11 +10,11 @@ Cada etapa dessa análise foi descrita em um post no Mediun:
 
 ## Contexto
 
-A empresa fictícia Telco Company vem sofrendo com uma alta rotação de seus clientes (também chamaado de churn). Nesse projeto, fui contratado para descobrir quais fatores estão levando seus consumidores a abondanar a empresa e propor uma solução capaz de reduzir as pedras financeiras devido a esse problema.
+A empresa fictícia Telco Company vem sofrendo com uma alta rotação de seus clientes (churn). Nesse projeto, fui contratado para descobrir quais fatores estão levando seus consumidores a abandonar a empresa e propor uma solução capaz de reduzir as perdas financeiras devido a esse problema.
 
-Apesar de armazenar dados dos usúarios, a telco x não possui em vigência nenhuma estrátegia para retenção de clientes. A ídeia pincipal é propor um asolução baseada em inteligência artifical capaz de identificar clientes propensos a deixar a empresa e fornecer a eles um incentivo, seja na forma de descontos ou ofertas em planos, com objetivo de fazê-los mudar de ideia e permanecer na empresa. Entretanto, é necessário avaliar até que ponto o custo atrelado a esses incentivos é vantajoso ou não frente a condição atual da empresa.
+Apesar de armazenar dados dos usúarios, a Telco Company não possui em vigência nenhuma estrátegia para retenção de clientes. A ídeia pincipal é propor um a solução baseada em inteligência artifical capaz de identificar clientes propensos a deixar a empresa e fornecer a eles um incentivo, seja na forma de descontos ou ofertas em planos, com objetivo de fazê-los mudar de ideia e permanecer na empresa. Entretanto, é necessário avaliar até que ponto o custo atrelado a esses incentivos é vantajoso ou não frente a condição atual da empresa.
 
-Coonversando com os gestores a meta estabelecida foi identificar corretamente pelo menos 70% dos clientes com intenção de deixar a empresa. Além disso, também foi solicitado que a solução final seja na forma de um APP online com uso simples.
+Coonversando com os gestores a meta estabelecida foi identificar corretamente pelo menos 70% dos clientes com intenção de deixar a empresa. Além disso, também foi solicitado que a solução final seja na forma de um App online com uso simples.
 
 Os dados utilizados são oriundos da competição Customer Churn Prediction 2020. A solução final consistiu em um App online contruído com o streamlit. A aplicação contém um dashboard interativo com informações dos clientes, o modelo final treinado e apto a receber novos dados para realizar previsões além de um resumo com os insights gerados. O repositório pode ser acessado aqui.
 
