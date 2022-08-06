@@ -63,9 +63,8 @@ Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 ## Deploy
 
+https://user-images.githubusercontent.com/53446126/183269107-dfe65dd8-f9af-4155-8169-e44daf3cf37b.mp4
 
 
-## Considerações Finais
-Passando pela etapas clientes mais valiosos fatores que diferenciam segmentação. SOlução com Machine Learning Só compensa se puder assegurar uma alta eficiencia dos programas de retenção.
 
 
