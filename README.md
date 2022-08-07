@@ -63,6 +63,9 @@ Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 ## Deploy
 
+[Solução Final Desenvolvida com Streamlit](https://vinitg96-analise-rotatividade-clientes-telco-churn-app-zvjev0.streamlitapp.com/). Caso o site abra com o tema escuro, clique nas três linhas no canto direito superior, depois em settings e selecione o tema claro para melhor visualização das imagens.
+
+
 https://user-images.githubusercontent.com/53446126/183269107-dfe65dd8-f9af-4155-8169-e44daf3cf37b.mp4
 
 
