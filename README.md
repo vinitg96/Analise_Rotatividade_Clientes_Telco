@@ -56,7 +56,7 @@ Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 
 ## Impacto Financeiro
-![ROI](./media/ROI_models.png "Retorno Financeiro dos Modelos de ML")
+![ROI](./media/ROI_ML.svg "Retorno Financeiro dos Modelos de ML")
 
 - Apenas 3 modelos (LGBM, Decision Tree e Random Forest) tem o potencial de retorno superior a solução atual. Entretanto, isso só ocorre com elevadas taxa de retenção
 - Considerando o melhor cenário (retenção de todos os clientes), podemos reduzir as perdas ocasionadas pelo churn de 14% para 6%, o que corresponde a um acresceimo de cerca de 8.700$ no banalnço financeiro da empresa.
