@@ -2,10 +2,11 @@
 
 ## Links Úteis
 Cada etapa dessa análise foi descrita em um post no Mediun:
-- Parte 1: Análise Exploratória e Geração de Insights
-- Parte 2: Modelagem para Machine Learning
+- [Parte 1: Análise Exploratória e Geração de Insights](https://medium.com/@vini.guerra87/an%C3%A1lise-de-churn-parte-1-an%C3%A1lise-explorat%C3%B3ria-e-gera%C3%A7%C3%A3o-de-insights-ec7827d3c70c)
+- [Parte 2: Modelagem para Machine Learning](https://medium.com/@vini.guerra87/an%C3%A1lise-de-churn-parte-2-modelagem-para-machine-learning-540dcc155eff)
 - Parte 3: Deploy
-- Parte 4: Impacto Financeiro dos Modelos de Machine Learning
+- [Parte 4: Impacto Financeiro dos Modelos de Machine Learning](https://medium.com/@vini.guerra87/an%C3%A1lise-de-churn-parte-4-impacto-financeiro-dos-modelos-de-machine-learning-8d2eb4553605)
+- [App online](https://vinitg96-analise-rotatividade-clientes-telco-churn-app-zvjev0.streamlitapp.com/)
 
 
 ## Contexto
@@ -57,9 +58,9 @@ Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 ## Impacto Financeiro
 ![ROI](./media/ROI_ML.svg "Retorno Financeiro dos Modelos de ML")
-
+- Com a Solução Atual (Sem Machine Learning), as perdas causadas pelo churn foram de aprixamadamente 15% do faturamento total possível (99.317).
 - Apenas 3 modelos (LGBM, Decision Tree e Random Forest) tem o potencial de retorno superior a solução atual. Entretanto, isso só ocorre com elevadas taxa de retenção
-- Considerando o melhor cenário (retenção de todos os clientes), podemos reduzir as perdas ocasionadas pelo churn de 14% para 6%, o que corresponde a um acresceimo de cerca de 8.700$ no banalnço financeiro da empresa.
+- Considerando o melhor cenário (retenção de todos os clientes), podemos reduzir as perdas ocasionadas pelo churn de 15% para 6%, o que corresponde a um acréscimo de cerca de 8.700$ no banalnço financeiro da empresa.
 
 ## Deploy
 
