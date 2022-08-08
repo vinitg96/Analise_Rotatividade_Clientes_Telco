@@ -11,7 +11,7 @@ Cada etapa dessa análise foi descrita em um post no Mediun:
 
 ## Contexto
 
-A empresa fictícia Telco Company vem sofrendo com uma alta rotação de seus clientes (churn). Nesse projeto, fui contratado para descobrir quais fatores estão levando seus consumidores a abandonar a empresa e propor uma solução capaz de reduzir as perdas financeiras devido a esse problema.
+A Telco Company é uma empresa fictícia do ramo de telecomunicação que vem sofrendo com uma alta rotação de seus clientes (churn). Nesse projeto, fui contratado para descobrir quais fatores estão levando seus consumidores a abandonar a empresa e propor uma solução capaz de reduzir as perdas financeiras devido a esse problema.
 
 Apesar de armazenar dados dos usúarios, a Telco Company não possui em vigência nenhuma estrátegia para retenção de clientes. A ídeia pincipal é propor um a solução baseada em inteligência artifical capaz de identificar clientes propensos a deixar a empresa e fornecer a eles um incentivo, seja na forma de descontos ou ofertas em planos, com objetivo de fazê-los mudar de ideia e permanecer. Entretanto, é necessário avaliar até que ponto o custo atrelado a esses incentivos é vantajoso ou não frente ao cenário atual.
 
@@ -47,10 +47,11 @@ Os dados utilizados são oriundos da competição Customer Churn Prediction 2020
 - Light Gradient Boosting Machine (LGBM) e Decision Tree (DT) foram os melhores modelos para o conjunto de dados, após avaliação em validação cruzada.
 - A adição de novas features melhorou significativamente a perfomance dos modelos.
 - Feature Selection com BorutaSHAP foi efetiva uma vez que foi possível reduzir o número de features de 24 para 7 com ganho de performance.
-- O ajuste dos hiperparâmetros resultou em um pequeno nas métricas.
+- O ajuste dos hiperparâmetros resultou em uma pequena melhoria nas métricas.
 - Foi possível identificar corretamente mais de 80% dos clientes rotativos.
 - As métricas foram similares entre validação e teste, mostrando que os modelos generalizam bem e estão aptos a receber novos dados.
 - A segmentação dos clientes em grupos confirmou que os clientes rotativos tem um comportamento peculiar que permite diferenciá-los dos ativos.
+
 Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 ![Métricas](./media/metrics.png "Metricas dos Modelos LGBM e DT")
