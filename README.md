@@ -59,9 +59,9 @@ Abaixo estão as métricas dois melhores modelos após cada etapa:
 
 ## Impacto Financeiro
 ![ROI](./media/ROI_ML.svg "Retorno Financeiro dos Modelos de ML")
-- Com a Solução Atual (Sem Machine Learning), as perdas causadas pelo churn foram de aprixamadamente 15% do faturamento total possível (99.317).
+- Com a Solução Atual (Sem Machine Learning), as perdas causadas pelo churn foram de aproximadamente 15% do faturamento total possível (99.317).
 - Apenas 3 modelos (LGBM, Decision Tree e Random Forest) tem o potencial de retorno superior a solução atual. Entretanto, isso só ocorre com elevadas taxa de retenção
-- Considerando o melhor cenário (retenção de todos os clientes), podemos reduzir as perdas ocasionadas pelo churn de 15% para 6%, o que corresponde a um acréscimo de cerca de 8.700$ no banalnço financeiro da empresa.
+- Considerando o melhor cenário (retenção de todos os clientes), podemos reduzir as perdas ocasionadas pelo churn de 15% para 6%, o que corresponde a um acréscimo de cerca de 8.700$ no balanço financeiro da empresa.
 
 ## Deploy
 
