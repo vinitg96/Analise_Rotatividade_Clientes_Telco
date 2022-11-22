@@ -1,4 +1,4 @@
-# Análise da Rotatividade de  Clientes (Churn) em Empresa de Telecomunicação 
+# Análise da Rotatividade de  Clientes (Churn) da Telco Company 
 
 ## Links Úteis
 Cada etapa dessa análise foi descrita em um post no Mediun:
